@@ -19,4 +19,5 @@
 
 <img width="598" height="166" alt="изображение" src="https://github.com/user-attachments/assets/73f7dc2c-0863-44aa-ba69-87b99deba441" />
 
+
 <img width="333" height="118" alt="изображение" src="https://github.com/user-attachments/assets/c298180d-42e5-4d32-9ee6-17f8e02606f8" />

@@ -8,6 +8,7 @@
 
 # Примечания
 На винду 11 ваще не работает, никога не пофикшу
+Белых списков нет и не будет
 
 # Отзывы пользователей
 
@@ -17,7 +18,7 @@
 
 <img width="578" height="190" alt="изображение" src="https://github.com/user-attachments/assets/4748cfbc-e40e-4318-8a9d-b1e4d883a0b3" />
 
-<img width="598" height="166" alt="изображение" src="https://github.com/user-attachments/assets/73f7dc2c-0863-44aa-ba69-87b99deba441" />
+<img width="559" height="164" alt="изображение" src="https://github.com/user-attachments/assets/c5a6ff0c-69fc-4ebb-9521-74dd518e928d" />
 
+<img width="610" height="113" alt="изображение" src="https://github.com/user-attachments/assets/ed919c25-e065-45a3-829f-ca3e292c1dbe" />
 
-<img width="333" height="118" alt="изображение" src="https://github.com/user-attachments/assets/c298180d-42e5-4d32-9ee6-17f8e02606f8" />

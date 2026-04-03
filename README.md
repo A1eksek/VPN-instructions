@@ -1,25 +1,16 @@
 # VPN-instructions
-Инструкция к подключению aleksek vpn
+Инструкция к подключению aleksek vpn 2
 
-1. Скачайте амнезию с офицального сайта на ваше устройство - https://storage.googleapis.com/amnezia/amnezia.org
-2. Напишите крутому алексеку в тг - [@Wuthless](https://t.me/Wuthless)
-3. Скиньте указанную сумму на т-банк на указанный номер телефона
-4. Пользуйтес впном до окончания срока
+1. Скачиваем клиент для vpn:
+  Android - V2RayTun - https://play.google.com/store/apps/details?id=com.v2raytun.android
+  Iphone - Streisand - https://apps.apple.com/us/app/streisand/id6450534064
+  Windows/Linux - v2rayN - [https://github.com/2dust/v2rayN/releases/tag/7.19.5](https://github.com/2dust/v2rayN/releases) (Смотрите Realese версию)
+
+2. Пишем великому админу в тгшку и просим конфиг платно - https://t.me/Wuthless
+3. Копируем ссылочку, которую вам прислал алексек и вставляем в приложение
 
 # Примечания
-На винду 11 ваще не работает, никога не пофикшу \\
-Белых списков нет и не будет
-
-# Отзывы пользователей
-
-<img width="464" height="55" alt="изображение" src="https://github.com/user-attachments/assets/cef68e64-7531-45a4-ab28-48569cecc263" />
-
-<img width="559" height="60" alt="изображение" src="https://github.com/user-attachments/assets/85ea0ed4-0ea5-499a-9ba4-a2c310854fed" />
-
-<img width="578" height="190" alt="изображение" src="https://github.com/user-attachments/assets/4748cfbc-e40e-4318-8a9d-b1e4d883a0b3" />
-<img width="455" height="48" alt="изображение" src="https://github.com/user-attachments/assets/865b93b5-03eb-4e28-8f14-c2d8c01356f4" />
-
-<img width="559" height="164" alt="изображение" src="https://github.com/user-attachments/assets/c5a6ff0c-69fc-4ebb-9521-74dd518e928d" />
-
-<img width="610" height="113" alt="изображение" src="https://github.com/user-attachments/assets/ed919c25-e065-45a3-829f-ca3e292c1dbe" />
-
+Теперь работает везде. Используются другие протоколы. Скорости норм
+УУУУУУ
+гад дем 
+Отзывы оставляйте в личке нашему админу указаному выше

@@ -6,7 +6,7 @@
   Iphone - V2RayTun - https://apps.apple.com/us/app/v2raytun/id6476628951  
   Windows/Linux - v2rayN - https://github.com/2dust/v2rayN/releases/tag/7.19.5 (Смотрите Realese версию)  
   
-2. Пишем великому админу в тгшку и просим конфиг платно - https://t.me/Wuthless  
+2. Пишем великому админу в тгшку и просим конфиг платно - https://t.me/BucketGawd  
 3. Копируем ссылочку, которую вам прислал алексек и вставляем в приложение  
   
 # Примечания

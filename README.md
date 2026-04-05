@@ -3,7 +3,7 @@
 
 1. Скачиваем клиент для vpn:  
   Android - V2RayTun - https://play.google.com/store/apps/details?id=com.v2raytun.android  
-  Iphone - Streisand - https://apps.apple.com/us/app/streisand/id6450534064  
+  Iphone - V2RayTun - https://apps.apple.com/us/app/v2raytun/id6476628951  
   Windows/Linux - v2rayN - https://github.com/2dust/v2rayN/releases/tag/7.19.5 (Смотрите Realese версию)  
   
 2. Пишем великому админу в тгшку и просим конфиг платно - https://t.me/Wuthless  
